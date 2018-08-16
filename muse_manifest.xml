@@ -1,0 +1,23 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="robotchat.github.io" resolutions="1x" timestamp="1534384588368">
+  <folder name="css">
+    <file name="site_global.css" crc="4288250968"/>
+    <file name="index.css" crc="3881375125" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="gnaq.png" crc="130029100" seo="true" ref="index"/>
+    <file name="photo5_tn.png" crc="297117859" seo="true" ref="index"/>
+    <file name="photo6_tn.png" crc="4158976602" seo="true" ref="index"/>
+    <file name="icon.png" crc="4253893434" seo="true" ref="index"/>
+    <file name="twitter.png" crc="480915211" seo="true" ref="index"/>
+    <file name="instagram.png" crc="3856336123" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="82413721" seo="true" mt="1534384499599" redirect="true"/>
+</manifest>
