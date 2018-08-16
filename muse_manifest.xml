@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="robotchat.github.io" resolutions="1x" timestamp="1534458755971">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="robotchat.github.io" resolutions="1x" timestamp="1534460162811">
   <folder name="css">
     <file name="site_global.css" crc="4288250968"/>
-    <file name="index.css" crc="3955276568" ref="index"/>
-    <file name="what-s-aibo.css" crc="150794660" ref="what-s-aibo"/>
-    <file name="what-s-discord.css" crc="101852123" ref="what-s-discord"/>
-    <file name="contact.css" crc="4173753577" ref="contact"/>
+    <file name="index.css" crc="4252592851" ref="index"/>
+    <file name="what-s-aibo.css" crc="489091196" ref="what-s-aibo"/>
+    <file name="what-s-discord.css" crc="141391660" ref="what-s-discord"/>
+    <file name="contact.css" crc="4265286544" ref="contact"/>
     <file name="template.css" crc="3976379976" ref="template"/>
   </folder>
   <folder name="scripts">
@@ -22,7 +22,7 @@
     <file name="photo6_tn.png" crc="4158976602" seo="true" ref="index"/>
     <file name="icon.png" crc="4253893434" seo="true" ref="index"/>
     <file name="twitter.png" crc="3908605039" seo="true" ref="index:template:what-s-aibo:what-s-discord:contact"/>
-    <file name="instagram.png" crc="339009245" seo="true" ref="index:template:what-s-aibo:what-s-discord:contact"/>
+    <file name="instagram.png" crc="339009245" seo="true" ref="template"/>
     <file name="map.png" crc="3852814440" seo="true" ref="index"/>
     <file name="pasted image 627x855.jpg" crc="433460746" seo="true" ref="what-s-aibo"/>
     <file name="pasted image 224x125.jpg" crc="412202994" seo="true" ref="what-s-aibo"/>
@@ -31,10 +31,11 @@
     <file name="pasted image 236x152-crop-u1385.jpg" crc="4088377178" ref="contact"/>
     <file name="pasted image 227x146-crop-u1397.jpg" crc="3819477765" ref="contact"/>
     <file name="pasted image 247x168-crop-u1364.jpg" crc="4159548341" ref="contact"/>
+    <file name="insta.png" crc="491860986" seo="true" ref="index:what-s-aibo:what-s-discord:contact"/>
   </folder>
-  <file name="index.html" crc="4116210386" seo="true" mt="1534457911181" redirect="true"/>
+  <file name="index.html" crc="55880662" seo="true" mt="1534459702142" redirect="true"/>
   <file name="template.html" crc="351818958" seo="true" mt="1534452064852" redirect="true"/>
-  <file name="what-s-aibo.html" crc="503263477" seo="true" mt="1534457892029" redirect="true"/>
-  <file name="what-s-discord.html" crc="3811745623" seo="true" mt="1534458707402" redirect="true"/>
-  <file name="contact.html" crc="4003594739" seo="true" mt="1534458626589" redirect="true"/>
+  <file name="what-s-aibo.html" crc="166399268" seo="true" mt="1534459914990" redirect="true"/>
+  <file name="what-s-discord.html" crc="459302308" seo="true" mt="1534460142327" redirect="true"/>
+  <file name="contact.html" crc="36039662" seo="true" mt="1534459950683" redirect="true"/>
 </manifest>
