@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="robotchat.github.io" resolutions="1x" timestamp="1535681811761">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="robotchat.github.io" resolutions="1x" timestamp="1539562403569">
   <folder name="css">
     <file name="site_global.css" crc="4288250968"/>
-    <file name="index.css" crc="172410975" ref="index"/>
+    <file name="index.css" crc="3807133928" ref="index"/>
     <file name="what-s-aibo.css" crc="489091196" ref="what-s-aibo"/>
-    <file name="what-s-discord.css" crc="141391660" ref="what-s-discord"/>
+    <file name="what-s-discord.css" crc="4010346748" ref="what-s-discord"/>
     <file name="contact.css" crc="112098881" ref="contact"/>
     <file name="template.css" crc="3976379976" ref="template"/>
   </folder>
@@ -35,9 +35,9 @@
     <file name="pasted image 246x151-crop-u1488.jpg" crc="514041825" ref="contact"/>
     <file name="pasted image 247x153-crop-u1497.jpg" crc="3775094340" ref="contact"/>
   </folder>
-  <file name="index.html" crc="3832581864" seo="true" mt="1535681798347" redirect="true"/>
+  <file name="index.html" crc="3953877398" seo="true" mt="1539562390301" redirect="true"/>
   <file name="template.html" crc="351818958" seo="true" mt="1534452064852" redirect="true"/>
   <file name="what-s-aibo.html" crc="166399268" seo="true" mt="1534459914990" redirect="true"/>
-  <file name="what-s-discord.html" crc="459302308" seo="true" mt="1534460142327" redirect="true"/>
+  <file name="what-s-discord.html" crc="3902721108" seo="true" mt="1539562290022" redirect="true"/>
   <file name="contact.html" crc="4060265361" seo="true" mt="1535295618267" redirect="true"/>
 </manifest>
